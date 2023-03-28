@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on various fintech projects
+- 👯 I’m looking to collaborate on new ideas and projects frequently
+- 📫 How to reach me: contact@philipbos.com
+- ⚡ Fun fact: A "jiffy" is an actual unit of time, used to measure the time it takes for light to travel one centimeter in a vacuum, which is approximately 33.3564 picoseconds.
